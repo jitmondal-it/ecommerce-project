@@ -3,7 +3,7 @@
 ## Tech Stack
 - Frontend: React / HTML / CSS / JS
 - Backend: Spring Boot (Java)
-- Database: MySQL
+- Database: PostgreSQL
 
 ## Features
 - User Authentication
